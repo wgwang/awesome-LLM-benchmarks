@@ -312,5 +312,5 @@ Gupta, Rahul, Soham Pal, Aditya Kanade, and Shirish Shevade. "Deepfix: Fixing co
 - 简要介绍了多模态知识融合的内容，书中以“月亮”为例，提出应当把图片的月亮、各种不同语言的文本月亮和和月亮的读音等，都应当融合到同一个知识点中。这正是多模态大模型所做的。
 - 其他一些关于神经科学、脑科学和哲学中对智能的思考
   
-![](imgs/kgbook.png)
+![](imgs/kgbook.jpg)
 
