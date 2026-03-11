@@ -296,6 +296,22 @@ Gupta, Rahul, Soham Pal, Aditya Kanade, and Shirish Shevade. "Deepfix: Fixing co
 
 
 
+## 评测工具与数据库 Benchmark Tools & Databases
+
+### LLM Benchmark Costco
+
+[LLM Benchmark Costco](https://github.com/joe1chief/llm-benchmark-costco) 是一个可搜索的大模型评测基准数据库，收录 **378+ 个**跨 12 个能力维度的基准测试，提供在线交互界面。
+
+主要功能：
+- 涵盖 Agent 能力、通用语言、多模态、代码、科学推理、安全对齐、医疗健康等 12 个维度
+- 支持内嵌 PDF 阅读，无需离开页面即可阅读完整论文
+- 200+ 个基准包含 Mermaid 可视化构建流程图
+- 多维度筛选（类别、年份、难度、数据开放程度）
+- 中英双语界面
+- GitHub Actions CI/CD 自动部署
+
+在线演示：https://joe1chief.github.io/llm-benchmark-costco/
+
 # 微信公众号：走向未来
 
 欢迎扫码关注微信公众：**走向未来**，公众号专注于分享AGI、大模型、知识图谱、深度学习、强化学习等技术、系统架构、应用场景和案例等内容。
