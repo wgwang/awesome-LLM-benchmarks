@@ -99,6 +99,11 @@ Huang, Yuzhen, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, 
 
 ## 推理Reasoning 评测数据集 
 
+
+### REFUTE (scientific epistemic reasoning)
+
+BGPT. REFUTE: Reasoning Over Evidence — Falsification, Uncertainty, Truth-grounding & Epistemics. Apache-2.0 Hugging Face benchmark (2025–2026 science summaries) testing calibrated scientific critique, falsification, limitation detection, overclaim correction, and planted-flaw detection. Dataset: https://huggingface.co/datasets/BGPT-OFFICIAL/refute · Technical report: https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md
+
 ### BigBench
 
 Aarohi Srivastava, Abhinav Rastogi, Abhishek Rao, Abu Awal Md Shoeb, Abubakar Abid, Adam Fisch, Adam R. Brown, et al. Beyond the imitation game: Quantifying and extrapolating the capabilities of language models. arXiv preprint arXiv:2206.04615, 2022. URL https://arxiv.org/abs/ 2206.04615.
