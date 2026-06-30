@@ -147,6 +147,10 @@ Shashi Narayan, Shay B. Cohen, and Mirella Lapata. Don’t give me the details, 
 
 ## 多语言Multilinguality  评测数据集
 
+### SOAS English-Uzbek RAG Evaluation
+
+Rajan Prasad Tripathi. SOAS English-Uzbek RAG Evaluation: bilingual EN/UZ retrieval-evaluation benchmark for culturally grounded RAG. 400 rows balanced across governance, history, institutions, and culture; targeted Uzbek corpus supplementation raised retrieval recall from 39% to 98% in the source study. URL https://github.com/rajantripathi/soas-rag-evaluation.
+
 ### XLSum
 
 Tahmid Hasan, Abhik Bhattacharjee, Md. Saiful Islam, Kazi Mubasshir, Yuan-Fang Li, Yong-Bin Kang, M. Sohel Rahman, and Rifat Shahriyar. XL-sum: Large-scale multilingual abstractive summarization for 44 languages. In Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021, pages 4693–4703, Online, August 2021. Association for Computational Linguistics. doi: 10.18653/ v1/2021.findings-acl.413. URL https://aclanthology.org/2021.findings-acl.413.
@@ -313,4 +317,3 @@ Gupta, Rahul, Soham Pal, Aditya Kanade, and Shirish Shevade. "Deepfix: Fixing co
 - 其他一些关于神经科学、脑科学和哲学中对智能的思考
   
 ![](imgs/kgbook.jpg)
-
