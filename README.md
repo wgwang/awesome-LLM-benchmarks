@@ -205,6 +205,10 @@ Minesh Mathew, Dimosthenis Karatzas, and CV Jawahar. Docvqa: A dataset for vqa o
 
 Ahmed Masry, Do Long, Jia Qing Tan, Shafiq Joty, and Enamul Hoque. ChartQA: A benchmark for question answering about charts with visual and logical reasoning. In Findings of ACL, 2022.
 
+### StructEval
+
+Jialin Yang et al. StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs. TMLR, 2025. StructEval evaluates structured-output generation and conversion across text and renderable visual formats with executable, structural, and visual checks. [[Paper](https://arxiv.org/abs/2505.20139)] [[GitHub](https://github.com/TIGER-AI-Lab/StructEval)] [[Project](https://tiger-ai-lab.github.io/StructEval/)]
+
 ### InfographicVQA
 
 Minesh Mathew, Viraj Bagal, Rubèn Tito, Dimosthenis Karatzas, Ernest Valveny, and CV Jawahar. Infographicvqa. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pages 1697–1706, 2022.
