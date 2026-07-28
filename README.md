@@ -294,6 +294,12 @@ Hendrycks, Dan, Steven Basart, Saurav Kadavath, Mantas Mazeika, Akul Arora, Etha
 
 Gupta, Rahul, Soham Pal, Aditya Kanade, and Shirish Shevade. "Deepfix: Fixing common c language errors by deep learning." In Proceedings of the aaai conference on artificial intelligence, vol. 31, no. 1. 2017.
 
+##  网页智能体Web Agent评测数据集
+
+### ClawBench
+
+Reacher-Z, et al. "ClawBench: A Benchmark for Evaluating AI Web Agents on Real-World Tasks." arXiv preprint. [Paper](https://arxiv.org/abs/2603.12621) · [Code](https://github.com/reacher-z/ClawBench) · [Project](https://claw-bench.com/)
+
 
 
 # 微信公众号：走向未来
@@ -313,4 +319,3 @@ Gupta, Rahul, Soham Pal, Aditya Kanade, and Shirish Shevade. "Deepfix: Fixing co
 - 其他一些关于神经科学、脑科学和哲学中对智能的思考
   
 ![](imgs/kgbook.jpg)
-
