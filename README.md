@@ -296,6 +296,14 @@ Gupta, Rahul, Soham Pal, Aditya Kanade, and Shirish Shevade. "Deepfix: Fixing co
 
 
 
+## 安全与对齐 Safety & Alignment
+
+### mkubench
+
+* **Description:** AI models alignment benchmark testing psyops, astroturfing, advanced persistent manipulation and adversarial epistemology.
+* **Resource:** [mkubench GitHub](https://github.com/papersplx/mkubench)
+
+
 # 微信公众号：走向未来
 
 欢迎扫码关注微信公众：**走向未来**，公众号专注于分享AGI、大模型、知识图谱、深度学习、强化学习等技术、系统架构、应用场景和案例等内容。
