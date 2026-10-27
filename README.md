@@ -95,6 +95,7 @@ Zhang, Xiaotian, Chunyang Li, Yi Zong, Zhengyu Ying, Liang He, and Xipeng Qiu. E
 
 ### C-eval
 Huang, Yuzhen, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu et al. "C-eval: A multi-level multi-discipline chinese evaluation suite for foundation models." arXiv preprint arXiv:2305.08322 (2023).
+- **[LevelBench-100](https://github.com/levelcfo/levelbench-100)**: 面向多系统财务月结、总账核对与CFO分析的Agent评测基准（涵盖100个真实工作流与75次真机运行评测，详见 [评测报告与排行榜](https://levelcfo.com/benchmarks/agentic-accounting/)）。
 
 
 ## 推理Reasoning 评测数据集 
